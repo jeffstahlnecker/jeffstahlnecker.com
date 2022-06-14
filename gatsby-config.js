@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Jeff Stahlnecker`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jeff Stahlnecker`,
+      summary: `Product driven tech enthusiast, writer, and musician. `,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `This blog is an opportunity for me to share what I’ve learned along the way with others. It’s also a chance for me to share my interests, thoughts and generally anything I feel like talking about. It is, after all, JeffStahlnecker.com.`,
+    siteUrl: `https://www.jeffstahlnecker.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `jeffstahlnecker`,
     },
   },
   plugins: [
@@ -121,7 +121,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/jeff-stahlnecker-logo.webp`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
