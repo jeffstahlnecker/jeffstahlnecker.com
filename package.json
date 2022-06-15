@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "gatsby": "^4.16.0",
-    "gatsby-plugin-cookiehub": "^1.0.0",
     "gatsby-plugin-feed": "^4.16.0",
     "gatsby-plugin-gatsby-cloud": "^4.16.0",
     "gatsby-plugin-google-analytics": "^4.16.0",
