@@ -53,7 +53,6 @@ const BlogIndex = ({ data, location }) => {
                     }}
                     itemProp="description"
                   />
-                  <a rel="me" href="https://mastodon.social/@jeffstahlnecker">Mastodon</a>
                 </section>
               </article>
             </li>
